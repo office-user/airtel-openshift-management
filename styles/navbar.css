@@ -1,0 +1,23 @@
+.navbar-logo {
+  align-items: center;
+  justify-content: space-evenly;
+  display: flex;
+}
+
+.sub-title { 
+    font-size: 24px;
+    font-weight: 700;
+    margin-left: 35px;
+    color : white;
+}
+
+.topbar {
+  background: linear-gradient(to right, #f00, #2e0707);
+}
+
+
+.topbar-logo > svg {
+  width: 120px;
+  height: 120px;
+  margin-left: 10px;
+}
