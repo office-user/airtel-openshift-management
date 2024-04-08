@@ -64,7 +64,7 @@ body {
 }
 
 .guest-login-link:hover {
-  color: var(--success-color);
+  color: var(--secondary-color);
   cursor: pointer;
 }
 
@@ -269,7 +269,7 @@ body {
   font-size: 24px;
   font-weight: 700;
   color: #ed1a23;
-  margin-left: 35px;
+  /* margin-left: 35px; */
 }
 
 
