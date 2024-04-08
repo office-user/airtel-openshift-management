@@ -8,11 +8,13 @@
     font-size: 24px;
     font-weight: 700;
     margin-left: 35px;
-    color : white;
+    color : #ed1a23;
 }
 
 .topbar {
-  background: linear-gradient(to right, #f00, #2e0707);
+  /* background: linear-gradient(to right, #f00, #2e0707); */
+  background: linear-gradient(to right, #ffffff, #ffffff);
+
 }
 
 
